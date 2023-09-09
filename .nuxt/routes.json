@@ -1,0 +1,16 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "/Users/jkwamlah/Documents/Work/learning/web3.0/projects/agrox/packages/nuxtjs/pages/dashboard/index.vue",
+    "chunkName": "pages/dashboard/index",
+    "_name": "_4067f47a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/jkwamlah/Documents/Work/learning/web3.0/projects/agrox/packages/nuxtjs/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1bd19ff5"
+  }
+]

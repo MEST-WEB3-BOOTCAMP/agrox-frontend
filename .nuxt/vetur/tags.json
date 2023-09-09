@@ -1,0 +1,20 @@
+{
+  "FButton": {
+    "description": "Auto imported from components/fButton.vue"
+  },
+  "MenuItem": {
+    "description": "Auto imported from components/menu-item.vue"
+  },
+  "MobileNav": {
+    "description": "Auto imported from components/mobile-nav.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/navbar.vue"
+  },
+  "Proposals": {
+    "description": "Auto imported from components/proposals.vue"
+  },
+  "TopNav": {
+    "description": "Auto imported from components/top-nav.vue"
+  }
+}
